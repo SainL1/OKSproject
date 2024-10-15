@@ -14,10 +14,10 @@ Cостав команды:<br/>
 уведомления о приближающихся дедлайнах. Приложение будет доступно через веб-интерфейс и мобильное приложение.<br/><br/>
 
 ### Модель угроз<br/>
-![https://github-production-user-asset-6210df.s3.amazonaws.com/92573287/374643283-02a122c2-70e7-416b-bd0f-ceb3b639c976.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241015T141921Z&X-Amz-Expires=300&X-Amz-Signature=346b634c0b4b8ef90a40ae8142d9a7ab70f27325493f32c95bf7edbc55b4d6aa&X-Amz-SignedHeaders=host]
+![export](https://github-production-user-asset-6210df.s3.amazonaws.com/92573287/374643283-02a122c2-70e7-416b-bd0f-ceb3b639c976.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241015T141921Z&X-Amz-Expires=300&X-Amz-Signature=346b634c0b4b8ef90a40ae8142d9a7ab70f27325493f32c95bf7edbc55b4d6aa&X-Amz-SignedHeaders=host)
 
 ### Модель нарушителя<br/>
-![https://sun9-1.userapi.com/s/v1/ig2/hdnHqjjqV0M-1RS7TF2dKL3ZlhsFpwRcQCrgyRxj6hTysUQYpIq56jAURjTGCpVKigp-yD3hGLjCy2MptK10-Tfn.jpg?quality=96&as=32x19,48x28,72x42,108x63,160x94,240x140,360x210,480x281,540x316,640x374,720x421,1080x631,1235x722&from=bu&u=tuI5YvE2QnQUkCFWY_1bOjdA0Vl7h7DuibyOecpuSPU&cs=1235x722]
+![export (2)](https://sun9-1.userapi.com/s/v1/ig2/hdnHqjjqV0M-1RS7TF2dKL3ZlhsFpwRcQCrgyRxj6hTysUQYpIq56jAURjTGCpVKigp-yD3hGLjCy2MptK10-Tfn.jpg?quality=96&as=32x19,48x28,72x42,108x63,160x94,240x140,360x210,480x281,540x316,640x374,720x421,1080x631,1235x722&from=bu&u=tuI5YvE2QnQUkCFWY_1bOjdA0Vl7h7DuibyOecpuSPU&cs=1235x722)
 
 ### Цели безопасности <br/>
 1. Защита личной информации пользователей
