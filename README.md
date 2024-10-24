@@ -12,11 +12,6 @@ Cостав команды:<br/>
 создавать задачи, назначать исполнителей, устанавливать сроки выполнения, отслеживать прогресс и отправлять 
 уведомления о приближающихся дедлайнах. Приложение будет доступно через веб-интерфейс и мобильное приложение.<br/><br/>
 
-## Модель угроз<br/>
-![export (1)](https://sun9-52.userapi.com/impg/dvjFJqe038qZpjcc73MSftyiNAmbNRcrEWAIqQ/zv8h7Luq8qI.jpg?size=786x1325&quality=96&sign=6063ddcfb37e8d5b63f090d91b3e86c7&type=album)
-## Модель нарушителя<br/>
-![export (2)](https://sun9-1.userapi.com/s/v1/ig2/hdnHqjjqV0M-1RS7TF2dKL3ZlhsFpwRcQCrgyRxj6hTysUQYpIq56jAURjTGCpVKigp-yD3hGLjCy2MptK10-Tfn.jpg?quality=96&as=32x19,48x28,72x42,108x63,160x94,240x140,360x210,480x281,540x316,640x374,720x421,1080x631,1235x722&from=bu&u=tuI5YvE2QnQUkCFWY_1bOjdA0Vl7h7DuibyOecpuSPU&cs=1235x722)
-
 ## Цели безопасности <br/>
 1. Защита личной информации пользователей
 2. Защита командных и личных задач
