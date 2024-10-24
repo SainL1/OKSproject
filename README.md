@@ -1,4 +1,4 @@
-# PassManager<br/>
+# ToDoManager <br/>
 Cостав команды:<br/>
 + Зимцов Максим - 3 курс, ИВТ-22-22<br/>
 + Петров Иван - 3 курс, ИВТ-22-22<br/>
@@ -168,3 +168,16 @@ Cостав команды:<br/>
 
 # Архитектура приложения с исправленными уязвимостями 
 ![export (4)](https://www.plantuml.com/plantuml/png/XLRFJnD15BxlNp7YHICb7ZnvC42fFn9gbFRWTMrNQ6YtPdSn6cF2WYXQ4zIB1X52qCJZKa1AwRR_mfl_oFTbPxARAOjkqdPdlk-Rzxvvxycq7zXUiD9gMbVgphE6wuY5Kh4wy_3UV4dKchRlM_vomtrkUtPBU4ujiDt5fYDUMuB_pTgrvKMllUBMY-rcsnDNIpVn97jjh-vuQltM31xhZMMbuXEqJUVKenEAvPeCgKz3EX4qagkyUCulVx45m8ImVL5iDXmtK0VV4BJ7Y7FvYKxvkqkHN6CqlqE8EMU2Fs8iobNvbhVEPAYP-pHarZ55YRhWbmYlyhr6_AI85sCiwHXOZwL7E1GBoN7GrPm3wlBhCGC6X0s0jioCzn4FWFmPNvvlnV5UE5wQxouTCZAYGnhouNsAahYPpWiXJD38pt8TuH7Ixt7oFQ3bEyJ3nutRPkO1oOWtiMmwnDy3wfbfVQ484A5CZML7RY09CMS7zbFRTz8qVaESCUFIUOZ_X_o3Duwe9vZMHywCYc4AVfkXVeMot5JQCbGNqcDq1o6Bqil0yLox2VyRDST7w9VSiBY6Eb6tE83Qf2Yrx4PpKbJAbUkQ-pqfHZfYdBuB6GhSZDA21wjowo9xTrXsGvNhAGraHz0XS-37Y5bXcgsgdDgArmXUbPtQakqs_5QQ0reE3EQObP6zEut-0nGA3Buhoox2xI5sNaR-Qt12tPK2WfMfLTdHl6_C-u1ceaYWhCMJIaNmHHOh2tVJkcVFajEptTX7KIHBI9sw-GsnC3jJD2qzW2hc0Cn4vI06wYi7gqkUOmSPstxnIPkOA7IKcI9mZYBK9ce07Z92jJ7AYcrLwFA3Qbdzh3oUBm0dFpAk3mcDGlO5qf54Qd5khfrTHI9g51OAT_IKk2tkLwkFJ9VL9d2w4Ha9rrCGEvcvKXfaIMOhWBpBWUW1WI4aryUxWZjJdvSDKh6xA18-M8RPWr7s-kofAN3C8WP_JxTPPZuaNPVR4igjN56Z2aUN_BU2AJCKrELdYD0jLIT8CaTxcv4nUYAHXLsgy93j60D2IXJi7HGA4aP7fNE3FL3nTFD4LD9cThcZD4T7NPsf8qD403QcKGxNhBaqYkm4iQOTjuw_Flu1)
+
+# Заключение
+Проект ToDoManager представляет собой инновационное решение для безопасного управления задачами и хранения информации в организации. В ходе разработки мы поставили перед собой важные цели:
+защиту личных данных пользователей, обеспечение безопасности командных задач и борьбу с мошенничеством.
+
+Основные достижения:<br/>
+1.Защита персональных данных: Внедрение механизмов для классификации, шифрования и безопасной передачи данных, что значительно снижает риск утечек и кражи информации.<br/>
+
+2.Безопасность аутентификации и авторизации: Реализованы надежные методы аутентификации, включая хэширование паролей и использование сессионных токенов, что обеспечивает защиту от несанкционированного доступа.<br/>
+
+3.Защита от угроз: Применение параметризованных запросов, механизмов защиты от SQL-инъекций и XSS-атак, а также внедрение контрмер для защиты от DDoS-атак, что гарантирует стабильную работу приложения.<br/>
+
+4.Моделирование угроз и нарушителей: Проведенное моделирование позволило выявить возможные уязвимости и заранее подготовить меры для их устранения, что усиливает общую безопасность приложения.<br/>
